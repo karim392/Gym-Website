@@ -1,0 +1,20 @@
+Functional
+
+
+GYM name in the top of the page "Powerfit gym"
+
+list of bottons in the top of the page: Home, About, Contact, About.
+
+list of the GYM services in the home page such as: Personal trainings, Group classes, Nutration plans.
+
+Contact us form to fill by name, Email and the message.
+
+
+Non - Functional
+
+
+Nginx Host.
+
+SQS.
+
+Cloud front to acess the website globaly.
